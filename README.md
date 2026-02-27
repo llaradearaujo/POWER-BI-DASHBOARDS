@@ -17,7 +17,11 @@ Python (Streamlit / Plotly / Dash)
 Excel
 
 📂 Estrutura
+
 data/          # datasets
+
 dashboards/    # arquivos dos dashboards
+
 assets/        # imagens e recursos
+
 requirements.txt
